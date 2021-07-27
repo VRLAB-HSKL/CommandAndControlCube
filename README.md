@@ -1,2 +1,2 @@
-# AVR21-6
-Repository for Golz
+# CommandControlCube
+Repository for the project work in AVR 21.

@@ -1,0 +1,1289 @@
+ScriptsOnlyBuild:
+  usedScripts:
+    Assembly-CSharp.dll:
+    - CCCHandling
+    - CollisionHandling
+    HTC.ViveInputUtility.Editor.dll:
+    - HTC.UnityPlugin.Vive.VIUProjectSettings
+    HTC.ViveInputUtility.dll:
+    - GuideLineDrawer
+    - HTC.UnityPlugin.Pointer3D.CanvasRaycastMethod
+    - HTC.UnityPlugin.Pointer3D.PhysicsRaycastMethod
+    - HTC.UnityPlugin.PoseTracker.PoseEaser
+    - HTC.UnityPlugin.PoseTracker.PoseStablizer
+    - HTC.UnityPlugin.VRModuleManagement.VRModuleSettings
+    - HTC.UnityPlugin.Vive.BindingInterface.BindingInterfaceConfigPanelController
+    - HTC.UnityPlugin.Vive.BindingInterface.BindingInterfaceDeviceItem
+    - HTC.UnityPlugin.Vive.BindingInterface.BindingInterfaceDevicePanelController
+    - HTC.UnityPlugin.Vive.BindingInterface.BindingInterfaceRoleButtonItem
+    - HTC.UnityPlugin.Vive.BindingInterface.BindingInterfaceRolePanelController
+    - HTC.UnityPlugin.Vive.BindingInterface.BindingInterfaceRoleSetBindingItem
+    - HTC.UnityPlugin.Vive.BindingInterface.BindingInterfaceRoleSetButtonItem
+    - HTC.UnityPlugin.Vive.BindingInterface.BindingInterfaceRoleSetPanelController
+    - HTC.UnityPlugin.Vive.BindingInterface.BindingInterfaceSpriteManager
+    - HTC.UnityPlugin.Vive.ExCamConfigInterface.ExCamConfigInterfaceDraggableLabel
+    - HTC.UnityPlugin.Vive.ExCamConfigInterface.ExCamConfigInterfacePanelController
+    - HTC.UnityPlugin.Vive.HandJointUpdater
+    - HTC.UnityPlugin.Vive.RenderModelHook
+    - HTC.UnityPlugin.Vive.TooltipRigAsset
+    - HTC.UnityPlugin.Vive.VIUSettings
+    - HTC.UnityPlugin.Vive.VRCameraHook
+    - HTC.UnityPlugin.Vive.VivePoseTracker
+    - HTC.UnityPlugin.Vive.ViveRaycaster
+    - HTC.UnityPlugin.Vive.ViveRoleSetter
+    - ReticlePoser
+    Unity.Rider.Editor.dll:
+    - Packages.Rider.Editor.UnitTesting.CallbackData
+    Unity.XR.Management.Editor.dll:
+    - UnityEditor.XR.Management.XRGeneralSettingsPerBuildTarget
+    Unity.XR.Management.dll:
+    - UnityEngine.XR.Management.XRGeneralSettings
+    - UnityEngine.XR.Management.XRManagerSettings
+    UnityEditor.TestRunner.dll:
+    - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
+    - UnityEditor.TestTools.TestRunner.TestListCacheData
+    - UnityEditor.TestTools.TestRunner.TestRun.TestJobDataHolder
+    UnityEngine.UI.dll:
+    - UnityEngine.EventSystems.EventSystem
+    - UnityEngine.EventSystems.StandaloneInputModule
+    - UnityEngine.UI.AspectRatioFitter
+    - UnityEngine.UI.Button
+    - UnityEngine.UI.CanvasScaler
+    - UnityEngine.UI.ContentSizeFitter
+    - UnityEngine.UI.GraphicRaycaster
+    - UnityEngine.UI.HorizontalLayoutGroup
+    - UnityEngine.UI.Image
+    - UnityEngine.UI.InputField
+    - UnityEngine.UI.LayoutElement
+    - UnityEngine.UI.RectMask2D
+    - UnityEngine.UI.ScrollRect
+    - UnityEngine.UI.Scrollbar
+    - UnityEngine.UI.Slider
+    - UnityEngine.UI.Text
+    - UnityEngine.UI.Toggle
+    - UnityEngine.UI.ToggleGroup
+    - UnityEngine.UI.VerticalLayoutGroup
+    Wave.XRSDK.dll:
+    - Wave.XR.Loader.WaveXRLoader
+    - Wave.XR.Settings.WaveXRSettings
+  sceneClasses:
+    Assets/Scenes/SampleScene.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 23
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 33
+      Script: {instanceID: 0}
+    - Class: 43
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 49
+      Script: {instanceID: 0}
+    - Class: 54
+      Script: {instanceID: 0}
+    - Class: 64
+      Script: {instanceID: 0}
+    - Class: 65
+      Script: {instanceID: 0}
+    - Class: 74
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 89
+      Script: {instanceID: 0}
+    - Class: 90
+      Script: {instanceID: 0}
+    - Class: 91
+      Script: {instanceID: 0}
+    - Class: 95
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 108
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 11344}
+    - Class: 114
+      Script: {instanceID: 11346}
+    - Class: 114
+      Script: {instanceID: 11362}
+    - Class: 114
+      Script: {instanceID: 11370}
+    - Class: 114
+      Script: {instanceID: 11442}
+    - Class: 114
+      Script: {instanceID: 11446}
+    - Class: 114
+      Script: {instanceID: 11610}
+    - Class: 114
+      Script: {instanceID: 11612}
+    - Class: 114
+      Script: {instanceID: 11754}
+    - Class: 114
+      Script: {instanceID: 11758}
+    - Class: 114
+      Script: {instanceID: 11786}
+    - Class: 114
+      Script: {instanceID: 11814}
+    - Class: 114
+      Script: {instanceID: 11892}
+    - Class: 114
+      Script: {instanceID: 11928}
+    - Class: 114
+      Script: {instanceID: 11930}
+    - Class: 114
+      Script: {instanceID: 12062}
+    - Class: 114
+      Script: {instanceID: 12120}
+    - Class: 114
+      Script: {instanceID: 12124}
+    - Class: 114
+      Script: {instanceID: 12192}
+    - Class: 114
+      Script: {instanceID: 12282}
+    - Class: 114
+      Script: {instanceID: 12482}
+    - Class: 114
+      Script: {instanceID: 12506}
+    - Class: 114
+      Script: {instanceID: 12544}
+    - Class: 114
+      Script: {instanceID: 12632}
+    - Class: 114
+      Script: {instanceID: 12640}
+    - Class: 114
+      Script: {instanceID: 12782}
+    - Class: 114
+      Script: {instanceID: 12910}
+    - Class: 114
+      Script: {instanceID: 12932}
+    - Class: 114
+      Script: {instanceID: 12982}
+    - Class: 114
+      Script: {instanceID: 13050}
+    - Class: 114
+      Script: {instanceID: 13092}
+    - Class: 114
+      Script: {instanceID: 13120}
+    - Class: 114
+      Script: {instanceID: 13320}
+    - Class: 114
+      Script: {instanceID: 13402}
+    - Class: 114
+      Script: {instanceID: 13422}
+    - Class: 114
+      Script: {instanceID: 13472}
+    - Class: 114
+      Script: {instanceID: 13494}
+    - Class: 114
+      Script: {instanceID: 13628}
+    - Class: 114
+      Script: {instanceID: 13666}
+    - Class: 114
+      Script: {instanceID: 13730}
+    - Class: 114
+      Script: {instanceID: 13748}
+    - Class: 114
+      Script: {instanceID: 13796}
+    - Class: 114
+      Script: {instanceID: 13836}
+    - Class: 114
+      Script: {instanceID: 13958}
+    - Class: 114
+      Script: {instanceID: 13972}
+    - Class: 114
+      Script: {instanceID: 14010}
+    - Class: 114
+      Script: {instanceID: 14034}
+    - Class: 114
+      Script: {instanceID: 14742}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 120
+      Script: {instanceID: 0}
+    - Class: 124
+      Script: {instanceID: 0}
+    - Class: 128
+      Script: {instanceID: 0}
+    - Class: 135
+      Script: {instanceID: 0}
+    - Class: 137
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+    - Class: 213
+      Script: {instanceID: 0}
+    - Class: 222
+      Script: {instanceID: 0}
+    - Class: 223
+      Script: {instanceID: 0}
+    - Class: 224
+      Script: {instanceID: 0}
+    - Class: 225
+      Script: {instanceID: 0}
+  scriptHashData:
+  - hash:
+      serializedVersion: 2
+      Hash: aa88ae22474df55295327e4ee99e5a24
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Toggle
+  - hash:
+      serializedVersion: 2
+      Hash: 89f9a1b4c64db9559e39f4a2e3bfaadd
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Image
+  - hash:
+      serializedVersion: 2
+      Hash: 81c3ed072fc2586fb6ca54c13a45f1d1
+    assemblyName: HTC.ViveInputUtility.dll
+    namespaceName: HTC.UnityPlugin.Vive.BindingInterface
+    className: BindingInterfaceRoleSetPanelController
+  - hash:
+      serializedVersion: 2
+      Hash: 4bc4346a71a8df53a6b106f68ef3a190
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: CanvasScaler
+  - hash:
+      serializedVersion: 2
+      Hash: e0a71006c71249a68f1aaf417751163c
+    assemblyName: HTC.ViveInputUtility.dll
+    namespaceName: HTC.UnityPlugin.Vive
+    className: DeviceInputDebugger
+  - hash:
+      serializedVersion: 2
+      Hash: c42672c997f8be6b1aa86a927ebea785
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_SelectionCaret
+  - hash:
+      serializedVersion: 2
+      Hash: 43d4f435dc031c7b38272db9df09a807
+    assemblyName: HTC.ViveInputUtility.dll
+    namespaceName: HTC.UnityPlugin.Vive
+    className: StickyGrabbable
+  - hash:
+      serializedVersion: 2
+      Hash: d2c31f8209a68deac9789fccc42ed85e
+    assemblyName: HTC.ViveInputUtility.dll
+    namespaceName: 
+    className: ShowMenuOnClick
+  - hash:
+      serializedVersion: 2
+      Hash: 87ff43d2baf3385cba327d8f803a4ebb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: AudioPlayableAsset
+  - hash:
+      serializedVersion: 2
+      Hash: b4fc42b020df4b67385e61ff21d513cc
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_Dropdown
+  - hash:
+      serializedVersion: 2
+      Hash: 5b4a54e7172f94264f14bd8b82c65266
+    assemblyName: HTC.ViveInputUtility.dll
+    namespaceName: HTC.UnityPlugin.Vive.BindingInterface
+    className: BindingInterfaceRoleSetButtonItem
+  - hash:
+      serializedVersion: 2
+      Hash: 922e2152caf5aa4d002265034eccba20
+    assemblyName: HTC.ViveInputUtility.dll
+    namespaceName: HTC.UnityPlugin.Vive.ExCamConfigInterface
+    className: ExCamConfigInterfacePanelController
+  - hash:
+      serializedVersion: 2
+      Hash: 5f1c710b8f8da269c2186b6245dd5254
+    assemblyName: HTC.ViveInputUtility.dll
+    namespaceName: 
+    className: ControllerManagerSample
+  - hash:
+      serializedVersion: 2
+      Hash: 2474c66deee20a7313198dc61ff4b67a
+    assemblyName: HTC.ViveInputUtility.dll
+    namespaceName: HTC.UnityPlugin.Vive
+    className: ExternalCameraHook
+  - hash:
+      serializedVersion: 2
+      Hash: c80a9b1c04310ef50f295dd3946a24ed
+    assemblyName: HTC.ViveInputUtility.dll
+    namespaceName: HTC.UnityPlugin.PoseTracker
+    className: PoseFreezer
+  - hash:
+      serializedVersion: 2
+      Hash: e0a0f15bc639eab4f95ddba0417463fd
+    assemblyName: HTC.ViveInputUtility.dll
+    namespaceName: HTC.UnityPlugin.Pointer3D
+    className: GraphicRaycastMethod
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Wave.XRSDK.dll
+    namespaceName: Wave.XR.DirectPreview
+    className: DirectPreviewRender
+  - hash:
+      serializedVersion: 2
+      Hash: e7a73f5f78ba6445195ec23b74a1ce2d
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_ScrollbarEventHandler
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestTools.TestRunner.Callbacks
+    className: PlayerQuitHandler
+  - hash:
+      serializedVersion: 2
+      Hash: b4a8dcd119e7f77cdf98d9b100f7790a
+    assemblyName: HTC.ViveInputUtility.dll
+    namespaceName: HTC.UnityPlugin.Vive
+    className: DefaultTooltipRenderDataAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 04e4a8b0447477cc4e933d9e5311188f
+    assemblyName: UnityEngine.XR.LegacyInputHelpers.dll
+    namespaceName: UnityEngine.XR.LegacyInputHelpers
+    className: ArmModel
+  - hash:
+      serializedVersion: 2
+      Hash: c3d3430df9e3ea95e3e3d587961390fb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: GroupTrack
+  - hash:
+      serializedVersion: 2
+      Hash: a5781dc71a671b1ad2b38de19f24b71f
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: ActivationTrack
+  - hash:
+      serializedVersion: 2
+      Hash: aeb62f729c52c814dec86c47dcac1471
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Text
+  - hash:
+      serializedVersion: 2
+      Hash: 499fd23433e68e265d153aa6b95d0047
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Scrollbar
+  - hash:
+      serializedVersion: 2
+      Hash: e83bac24ab53a1108f5b78e04d6e5782
+    assemblyName: HTC.ViveInputUtility.dll
+    namespaceName: HTC.UnityPlugin.Pointer3D
+    className: ProjectileGenerator
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: PositionAsUV1
+  - hash:
+      serializedVersion: 2
+      Hash: abf1930d8126d0b2e00e9449129a0190
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: TouchInputModule
+  - hash:
+      serializedVersion: 2
+      Hash: 3c1d06ff466101c2b33bed5632e7bf94
+    assemblyName: HTC.ViveInputUtility.dll
+    namespaceName: 
+    className: SpawnObjectOnTriggerExit
+  - hash:
+      serializedVersion: 2
+      Hash: 98aa0a0c8ff2910eb12af89c7e0eb661
+    assemblyName: Unity.XR.Management.dll
+    namespaceName: UnityEngine.XR.Management
+    className: XRGeneralSettings
+  - hash:
+      serializedVersion: 2
+      Hash: 3b2faefa312cf60329caa0b5209e315b
+    assemblyName: Wave.XRSDK.dll
+    namespaceName: Wave.XR.Settings
+    className: WaveXRSettings
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestTools.TestRunner.Callbacks
+    className: TestResultRendererCallback
+  - hash:
+      serializedVersion: 2
+      Hash: 234d407605354852c48e57df17c9a1c6
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_InputField
+  - hash:
+      serializedVersion: 2
+      Hash: 7ab0e790220bdca831fdd886b339039d
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: GridLayoutGroup
+  - hash:
+      serializedVersion: 2
+      Hash: 3b6d3ebba11c76e05c1605aa11995872
+    assemblyName: HTC.ViveInputUtility.dll
+    namespaceName: HTC.UnityPlugin.Vive.VIUExample
+    className: SelectColorUIController
+  - hash:
+      serializedVersion: 2
+      Hash: 5eb65426089c03bda71009bd418b9055
+    assemblyName: HTC.ViveInputUtility.dll
+    namespaceName: HTC.UnityPlugin.Vive.BindingInterface
+    className: BindingInterfaceSpriteManager
+  - hash:
+      serializedVersion: 2
+      Hash: a1af0fee7d3adfe6279d95e70b65f97d
+    assemblyName: HTC.ViveInputUtility.dll
+    namespaceName: HTC.UnityPlugin.Vive.BindingInterface
+    className: BindingInterfaceDevicePanelController
+  - hash:
+      serializedVersion: 2
+      Hash: 40b8d860054d994bf78f8f8c97dbc4c4
+    assemblyName: HTC.ViveInputUtility.dll
+    namespaceName: HTC.UnityPlugin.Pointer3D
+    className: Physics2DRaycastMethod
+  - hash:
+      serializedVersion: 2
+      Hash: 8aa3d6ccbcb54ee8db6c1229854adaaa
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: ContentSizeFitter
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: SignalAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 0dbc3be398b4869a5c8d0d8481ee402c
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: LayoutElement
+  - hash:
+      serializedVersion: 2
+      Hash: 18c222bef9ae745ce69ddde9b74337ca
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: PhysicsRaycaster
+  - hash:
+      serializedVersion: 2
+      Hash: bd3cf68c8964d3c66d1c43f4f98508c9
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: AnimationTrack
+  - hash:
+      serializedVersion: 2
+      Hash: cf9f5cf2c3145a37ac07f00e50e460f9
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: AspectRatioFitter
+  - hash:
+      serializedVersion: 2
+      Hash: 81218bbc515f6e0ce09753ef242b5327
+    assemblyName: HTC.ViveInputUtility.dll
+    namespaceName: HTC.UnityPlugin.Vive.BindingInterface
+    className: BindingInterfaceDeviceItem
+  - hash:
+      serializedVersion: 2
+      Hash: ef5c43f921427d03730f6ea4c848f07d
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: RectMask2D
+  - hash:
+      serializedVersion: 2
+      Hash: 1103fb0758976355cdf9b7d5ce9cb7e0
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_SubMeshUI
+  - hash:
+      serializedVersion: 2
+      Hash: 52bcb9c2a78bdd8d98a59e915c346e75
+    assemblyName: UnityEngine.XR.LegacyInputHelpers.dll
+    namespaceName: UnityEngine.XR.LegacyInputHelpers
+    className: TransitionArmModel
+  - hash:
+      serializedVersion: 2
+      Hash: 5ab533713adae59372fb3e10a585c186
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: AnimationPlayableAsset
+  - hash:
+      serializedVersion: 2
+      Hash: fc745e008cfd4ea6f7a014bef5f924e8
+    assemblyName: HTC.ViveInputUtility.dll
+    namespaceName: HTC.UnityPlugin.Pointer3D
+    className: Pointer3DInputModule
+  - hash:
+      serializedVersion: 2
+      Hash: 461d426c77e5782047314b1bcc408676
+    assemblyName: HTC.ViveInputUtility.dll
+    namespaceName: HTC.UnityPlugin.Vive.ExCamConfigInterface
+    className: ExCamConfigInterfaceDraggableLabel
+  - hash:
+      serializedVersion: 2
+      Hash: aba7b2852ef61d175dd9602e7723d5e5
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Mask
+  - hash:
+      serializedVersion: 2
+      Hash: d251bf88db6c95a6b1aa0b69298da9ef
+    assemblyName: UnityEngine.SpatialTracking.dll
+    namespaceName: UnityEngine.SpatialTracking
+    className: TrackedPoseDriver
+  - hash:
+      serializedVersion: 2
+      Hash: caa533b001ae39b864ba8425019e2268
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Shadow
+  - hash:
+      serializedVersion: 2
+      Hash: 148a711f09b4588f48e15ef603907f78
+    assemblyName: HTC.ViveInputUtility.dll
+    namespaceName: HTC.UnityPlugin.PoseTracker
+    className: PoseDirection
+  - hash:
+      serializedVersion: 2
+      Hash: 4420fb96277369d69a392e5de441124d
+    assemblyName: HTC.ViveInputUtility.dll
+    namespaceName: HTC.UnityPlugin.VRModuleManagement
+    className: VRModuleSettings
+  - hash:
+      serializedVersion: 2
+      Hash: c501e5162d15de347a11601e5655d5fe
+    assemblyName: HTC.ViveInputUtility.dll
+    namespaceName: HTC.UnityPlugin.Vive.BindingInterface
+    className: BindingInterfaceRolePanelController
+  - hash:
+      serializedVersion: 2
+      Hash: eff4a48629e2d591cafe1e3777664658
+    assemblyName: HTC.ViveInputUtility.dll
+    namespaceName: HTC.UnityPlugin.Vive
+    className: DefaultTooltipPrefab
+  - hash:
+      serializedVersion: 2
+      Hash: 5f170942ee57c7a568f5bcfc7521adea
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestTools
+    className: EnumerableTestState
+  - hash:
+      serializedVersion: 2
+      Hash: cc4274b586df3c02688bac01b88bd16c
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: EventSystem
+  - hash:
+      serializedVersion: 2
+      Hash: 0fb27be807aa299702f28ad0bcad1f46
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: ControlPlayableAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 28e7d3e12f427179cd9022f5c4420e25
+    assemblyName: HTC.ViveInputUtility.dll
+    namespaceName: HTC.UnityPlugin.Vive
+    className: Teleportable
+  - hash:
+      serializedVersion: 2
+      Hash: 8be2eb8058b8059df184d190f2474b4e
+    assemblyName: HTC.ViveInputUtility.dll
+    namespaceName: HTC.UnityPlugin.VRModuleManagement
+    className: VRModule
+  - hash:
+      serializedVersion: 2
+      Hash: fd68d84f33fad85aac38f2739c0ee270
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_SpriteAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 60c2a38cf2dec6bf9273597b8bc18388
+    assemblyName: HTC.ViveInputUtility.dll
+    namespaceName: 
+    className: DropObject
+  - hash:
+      serializedVersion: 2
+      Hash: c3d3430df9e3ea95e3e3d587961390fb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: ControlTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 8dc90e648ac06f43bdd31ac9fa8f4579
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Selectable
+  - hash:
+      serializedVersion: 2
+      Hash: e46beca94f02927ee7055e9055a596ad
+    assemblyName: HTC.ViveInputUtility.dll
+    namespaceName: 
+    className: ReticlePoser
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: HTC.ViveInputUtility.dll
+    namespaceName: HTC.UnityPlugin.Vive
+    className: ViveRoleBindingsHelper
+  - hash:
+      serializedVersion: 2
+      Hash: c7e66b57294b4ac4a8032e819cddbed6
+    assemblyName: HTC.ViveInputUtility.dll
+    namespaceName: HTC.UnityPlugin.Vive
+    className: DefaultTooltipRenderer
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: HTC.ViveInputUtility.dll
+    namespaceName: HTC.UnityPlugin.LiteCoroutineSystem.Example
+    className: LiteCoroutineExample
+  - hash:
+      serializedVersion: 2
+      Hash: 61e9e12f8feae35c14af3685093bda47
+    assemblyName: HTC.ViveInputUtility.dll
+    namespaceName: HTC.UnityPlugin.Vive
+    className: PushButton
+  - hash:
+      serializedVersion: 2
+      Hash: 0571277cb00772fcedbd22c37a9153f9
+    assemblyName: HTC.ViveInputUtility.dll
+    namespaceName: HTC.UnityPlugin.Vive
+    className: ViveInputVirtualButton
+  - hash:
+      serializedVersion: 2
+      Hash: d4020bafcd3ccbb5601a6e6c8ac78be0
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: ScrollRect
+  - hash:
+      serializedVersion: 2
+      Hash: 62f4b1a29a4c46769019e557dab3cfcd
+    assemblyName: HTC.ViveInputUtility.dll
+    namespaceName: HTC.UnityPlugin.PoseTracker
+    className: PoseEaser
+  - hash:
+      serializedVersion: 2
+      Hash: a1fb17cca6bffda930e23dec9de87b03
+    assemblyName: HTC.ViveInputUtility.dll
+    namespaceName: 
+    className: ResetButton
+  - hash:
+      serializedVersion: 2
+      Hash: c3d3430df9e3ea95e3e3d587961390fb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: SignalTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 96c305594c2340b91875b2a01ea4033b
+    assemblyName: HTC.ViveInputUtility.dll
+    namespaceName: HTC.UnityPlugin.Pointer3D
+    className: TouchPointerRaycaster
+  - hash:
+      serializedVersion: 2
+      Hash: 6a92b024faebe6fdd523538e566f9779
+    assemblyName: HTC.ViveInputUtility.dll
+    namespaceName: HTC.UnityPlugin.Vive
+    className: HandJointUpdater
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: HTC.ViveInputUtility.dll
+    namespaceName: HTC.UnityPlugin.Pointer3D
+    className: DefaultGenerator
+  - hash:
+      serializedVersion: 2
+      Hash: 5132733f994445ef0e3684bfce809c3c
+    assemblyName: HTC.ViveInputUtility.dll
+    namespaceName: HTC.UnityPlugin.Vive
+    className: CubeSlider
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_SpriteAnimator
+  - hash:
+      serializedVersion: 2
+      Hash: 1f3d73604489d022ed26f12521a10167
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CollisionHandling
+  - hash:
+      serializedVersion: 2
+      Hash: de580946687da35aae20beea87afd558
+    assemblyName: HTC.ViveInputUtility.dll
+    namespaceName: HTC.UnityPlugin.Vive
+    className: ViveRoleSetter
+  - hash:
+      serializedVersion: 2
+      Hash: c5f70f5b7c7a83974f2d15052d9fc171
+    assemblyName: HTC.ViveInputUtility.dll
+    namespaceName: 
+    className: OverlayKeyboardSample
+  - hash:
+      serializedVersion: 2
+      Hash: de3894cae172fc9eef2793d79e4ff711
+    assemblyName: HTC.ViveInputUtility.dll
+    namespaceName: HTC.UnityPlugin.Vive
+    className: RendererColorChanger
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestTools.TestRunner.Callbacks
+    className: RemoteTestResultSender
+  - hash:
+      serializedVersion: 2
+      Hash: e83bac24ab53a1108f5b78e04d6e5782
+    assemblyName: HTC.ViveInputUtility.dll
+    namespaceName: HTC.UnityPlugin.Pointer3D
+    className: ProjectionGenerator
+  - hash:
+      serializedVersion: 2
+      Hash: bb7a673e4fcf1b5651a3698dd5d52909
+    assemblyName: HTC.ViveInputUtility.dll
+    namespaceName: HTC.UnityPlugin.Pointer3D
+    className: Pointer3DRaycaster
+  - hash:
+      serializedVersion: 2
+      Hash: bb7a673e4fcf1b5651a3698dd5d52909
+    assemblyName: HTC.ViveInputUtility.dll
+    namespaceName: HTC.UnityPlugin.Pointer3D
+    className: StandaloneRaycaster
+  - hash:
+      serializedVersion: 2
+      Hash: cd601850e11885a7c4044c2404195232
+    assemblyName: HTC.ViveInputUtility.dll
+    namespaceName: HTC.UnityPlugin.Vive
+    className: PoseLookAtNearestCanvas
+  - hash:
+      serializedVersion: 2
+      Hash: 4fd8bf02e3089425d3502e26c44ba31a
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TextContainer
+  - hash:
+      serializedVersion: 2
+      Hash: 5f1752ed2092162f016c19510c28a8b9
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Button
+  - hash:
+      serializedVersion: 2
+      Hash: f84d945e5e1ca985698660fc26e9657f
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: RawImage
+  - hash:
+      serializedVersion: 2
+      Hash: e57e39b8201f200433921b64dd104035
+    assemblyName: HTC.ViveInputUtility.dll
+    namespaceName: 
+    className: ImageAlphaRaycastFilter
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: HTC.ViveInputUtility.dll
+    namespaceName: HTC.UnityPlugin.LiteCoroutineSystem.Example
+    className: LiteTaskExample
+  - hash:
+      serializedVersion: 2
+      Hash: 5ad4aa237d47ac2bab17bacb672edf7a
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: VerticalLayoutGroup
+  - hash:
+      serializedVersion: 2
+      Hash: 699582968bf572a4f5f4654f266dca73
+    assemblyName: HTC.ViveInputUtility.dll
+    namespaceName: 
+    className: DropImage
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Wave.XRSDK.dll
+    namespaceName: Wave.XR.Loader
+    className: WaveXRLoader
+  - hash:
+      serializedVersion: 2
+      Hash: 77fb0fafe39715c4aedea88ebac19d0b
+    assemblyName: HTC.ViveInputUtility.dll
+    namespaceName: HTC.UnityPlugin.Vive.BindingInterface
+    className: BindingInterfaceRoleButtonItem
+  - hash:
+      serializedVersion: 2
+      Hash: ab9f36f8293e76e0fe5aaf0b84134a3c
+    assemblyName: HTC.ViveInputUtility.dll
+    namespaceName: HTC.UnityPlugin.Vive
+    className: TooltipRigAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 148051f3064d3418568411e9fc26aed5
+    assemblyName: HTC.ViveInputUtility.dll
+    namespaceName: HTC.UnityPlugin.PoseTracker
+    className: PoseTracker
+  - hash:
+      serializedVersion: 2
+      Hash: f64fd37da5cb89243ec68b5026d70bb8
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: InputField
+  - hash:
+      serializedVersion: 2
+      Hash: c9a8b80298a116835b51ba1cf9284367
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: SignalReceiver
+  - hash:
+      serializedVersion: 2
+      Hash: 5ad4aa237d47ac2bab17bacb672edf7a
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: HorizontalLayoutGroup
+  - hash:
+      serializedVersion: 2
+      Hash: 300fd99066f8c288e85f5e81ce65fe34
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_FontAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 87ad3705a58f19c47136728d4a6e9c47
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_Settings
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: ActivationPlayableAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: HTC.ViveInputUtility.dll
+    namespaceName: HTC.UnityPlugin.Pointer3D
+    className: CanvasRaycastMethod
+  - hash:
+      serializedVersion: 2
+      Hash: 18c222bef9ae745ce69ddde9b74337ca
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: Physics2DRaycaster
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: HTC.ViveInputUtility.dll
+    namespaceName: HTC.UnityPlugin.ColliderEvent
+    className: ColliderEventCaster
+  - hash:
+      serializedVersion: 2
+      Hash: 99445b4ab69817d56c726de50692b1fd
+    assemblyName: HTC.ViveInputUtility.dll
+    namespaceName: 
+    className: Draggable
+  - hash:
+      serializedVersion: 2
+      Hash: 3f9f91771fefa0f061d5c0c6d01858a1
+    assemblyName: HTC.ViveInputUtility.dll
+    namespaceName: HTC.UnityPlugin.Vive
+    className: CustomDeviceHeight
+  - hash:
+      serializedVersion: 2
+      Hash: 036f2ed3e9a38c332c8c8c8f1bfbd5b2
+    assemblyName: HTC.ViveInputUtility.dll
+    namespaceName: HTC.UnityPlugin.Vive
+    className: ItemSpawner
+  - hash:
+      serializedVersion: 2
+      Hash: c1933cc0a2f4ff6eb13333347497beb3
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: TimelineAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: HTC.ViveInputUtility.dll
+    namespaceName: 
+    className: PlayGroundManager
+  - hash:
+      serializedVersion: 2
+      Hash: b03fe09f7dd0c9bd7643e472425ed68e
+    assemblyName: HTC.ViveInputUtility.dll
+    namespaceName: HTC.UnityPlugin.Vive
+    className: ViveColliderEventCaster
+  - hash:
+      serializedVersion: 2
+      Hash: fb0c30b4a31903f6716a68353d28e7d2
+    assemblyName: HTC.ViveInputUtility.dll
+    namespaceName: 
+    className: TransformScrollAndScaler
+  - hash:
+      serializedVersion: 2
+      Hash: 40b8d860054d994bf78f8f8c97dbc4c4
+    assemblyName: HTC.ViveInputUtility.dll
+    namespaceName: HTC.UnityPlugin.Pointer3D
+    className: PhysicsRaycastMethod
+  - hash:
+      serializedVersion: 2
+      Hash: 24c74cc0d527a06113f2b967042769f0
+    assemblyName: UnityEngine.XR.LegacyInputHelpers.dll
+    namespaceName: UnityEditor.XR.LegacyInputHelpers
+    className: CameraOffset
+  - hash:
+      serializedVersion: 2
+      Hash: f3348e53d292c97756661f199cfb8c3d
+    assemblyName: HTC.ViveInputUtility.dll
+    namespaceName: 
+    className: GravitySwitch
+  - hash:
+      serializedVersion: 2
+      Hash: 4c5a3d9c76a9d695c2cf84a55a82903e
+    assemblyName: HTC.ViveInputUtility.dll
+    namespaceName: 
+    className: MaterialChanger
+  - hash:
+      serializedVersion: 2
+      Hash: 6939772cb3ce775a8e8d99f332534491
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TextMeshProUGUI
+  - hash:
+      serializedVersion: 2
+      Hash: 82bf85d8708c1ebb33a6ff3ff70f6d3a
+    assemblyName: HTC.ViveInputUtility.dll
+    namespaceName: HTC.UnityPlugin.Vive
+    className: TouchReticlePoser
+  - hash:
+      serializedVersion: 2
+      Hash: 28ac522fa9bb47d578bbacfcb5a65149
+    assemblyName: HTC.ViveInputUtility.dll
+    namespaceName: 
+    className: GuideLineDrawer
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: HTC.ViveInputUtility.dll
+    namespaceName: HTC.UnityPlugin.Vive
+    className: SteamVRCameraHook
+  - hash:
+      serializedVersion: 2
+      Hash: 06ec5a802436794537adc2b2a106b756
+    assemblyName: HTC.ViveInputUtility.dll
+    namespaceName: HTC.UnityPlugin.Pointer3D
+    className: CanvasRaycastTarget
+  - hash:
+      serializedVersion: 2
+      Hash: 1bdd11cacd99e82dca3e0959687a5bf0
+    assemblyName: HTC.ViveInputUtility.dll
+    namespaceName: HTC.UnityPlugin.Vive
+    className: VivePoseTracker
+  - hash:
+      serializedVersion: 2
+      Hash: f336e086360abe49a3323e5f1583c35a
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: AudioTrack
+  - hash:
+      serializedVersion: 2
+      Hash: ae83e830e7a90c0aff918c4c2e520825
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: GraphicRaycaster
+  - hash:
+      serializedVersion: 2
+      Hash: 4e0eb8cdfce3cb5a1f6327fb20c1bc88
+    assemblyName: HTC.ViveInputUtility.dll
+    namespaceName: HTC.UnityPlugin.Vive
+    className: ViveInput
+  - hash:
+      serializedVersion: 2
+      Hash: ae9ae3de793bd74d2bd9fd2924b2e85f
+    assemblyName: HTC.ViveInputUtility.dll
+    namespaceName: HTC.UnityPlugin.Vive
+    className: VIUSettings
+  - hash:
+      serializedVersion: 2
+      Hash: 8e6ceabfd38a184413d69b7db56c89cc
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestTools
+    className: BeforeAfterTestCommandState
+  - hash:
+      serializedVersion: 2
+      Hash: e5665e52d27c77499050945114b64137
+    assemblyName: HTC.ViveInputUtility.dll
+    namespaceName: HTC.UnityPlugin.Vive
+    className: BasicGrabbable
+  - hash:
+      serializedVersion: 2
+      Hash: 89e07f8eebad87f5ba3d9d8bcec860c0
+    assemblyName: HTC.ViveInputUtility.dll
+    namespaceName: HTC.UnityPlugin.Vive.SteamVRExtension
+    className: VIUSteamVRRenderModel
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: HTC.ViveInputUtility.dll
+    namespaceName: 
+    className: ChangeMaterialToButtonsColor
+  - hash:
+      serializedVersion: 2
+      Hash: 369421eaa26a31b7617fb067c6e27c2e
+    assemblyName: HTC.ViveInputUtility.dll
+    namespaceName: 
+    className: DragImage
+  - hash:
+      serializedVersion: 2
+      Hash: c805a44b4f41939cbf347a16b8a49a2a
+    assemblyName: HTC.ViveInputUtility.dll
+    namespaceName: HTC.UnityPlugin.Vive.VIUExample
+    className: ModeManager
+  - hash:
+      serializedVersion: 2
+      Hash: 5c2d9f4208fd3f6e4cdfb18e9906348e
+    assemblyName: HTC.ViveInputUtility.dll
+    namespaceName: HTC.UnityPlugin.PoseTracker
+    className: PoseStablizer
+  - hash:
+      serializedVersion: 2
+      Hash: 893dbdbfe611d62e230a686ea89f1efd
+    assemblyName: UnityEngine.XR.LegacyInputHelpers.dll
+    namespaceName: UnityEngine.XR.LegacyInputHelpers
+    className: SwingArmModel
+  - hash:
+      serializedVersion: 2
+      Hash: e5b438db6f8f1ee0c7d7c9d9b8456dbf
+    assemblyName: HTC.ViveInputUtility.dll
+    namespaceName: HTC.UnityPlugin.Vive
+    className: RenderModelHook
+  - hash:
+      serializedVersion: 2
+      Hash: c3d3430df9e3ea95e3e3d587961390fb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: MarkerTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 8b577f8500659667a2cfe9cdf0b8ed24
+    assemblyName: HTC.ViveInputUtility.dll
+    namespaceName: HTC.UnityPlugin.Vive
+    className: MaterialSwitcher
+  - hash:
+      serializedVersion: 2
+      Hash: 800c50acba124432abb4cf0d47202e06
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_StyleSheet
+  - hash:
+      serializedVersion: 2
+      Hash: 89e07f8eebad87f5ba3d9d8bcec860c0
+    assemblyName: HTC.ViveInputUtility.dll
+    namespaceName: HTC.UnityPlugin.Vive.OculusVRExtension
+    className: VIUOculusVRRenderModel
+  - hash:
+      serializedVersion: 2
+      Hash: 9328b9183219ecef68eb8eda4c82cdf0
+    assemblyName: HTC.ViveInputUtility.dll
+    namespaceName: HTC.UnityPlugin.Vive
+    className: Lever
+  - hash:
+      serializedVersion: 2
+      Hash: abbc48a3ce04650e1d7f417f1a08ced8
+    assemblyName: HTC.ViveInputUtility.dll
+    namespaceName: HTC.UnityPlugin.Vive
+    className: ViveJointPoseTracker
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: HTC.ViveInputUtility.dll
+    namespaceName: HTC.UnityPlugin.Vive
+    className: VRCameraHook
+  - hash:
+      serializedVersion: 2
+      Hash: 96cb31f4a8c9acd984491f5c26d3f7b2
+    assemblyName: HTC.ViveInputUtility.dll
+    namespaceName: HTC.UnityPlugin.Vive.BindingInterface
+    className: BindingInterfaceConfigPanelController
+  - hash:
+      serializedVersion: 2
+      Hash: 0e3fbe10caf4ef42cbbac7eab8547b84
+    assemblyName: HTC.ViveInputUtility.dll
+    namespaceName: HTC.UnityPlugin.Vive
+    className: ViveRaycaster
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ExitApplication
+  - hash:
+      serializedVersion: 2
+      Hash: 89e07f8eebad87f5ba3d9d8bcec860c0
+    assemblyName: HTC.ViveInputUtility.dll
+    namespaceName: HTC.UnityPlugin.Vive.WaveVRExtension
+    className: VIUWaveVRRenderModel
+  - hash:
+      serializedVersion: 2
+      Hash: 35c5fed0e1a2dd6c62e0d7da3058ecad
+    assemblyName: HTC.ViveInputUtility.dll
+    namespaceName: HTC.UnityPlugin.Vive
+    className: HoverEventHandler
+  - hash:
+      serializedVersion: 2
+      Hash: 8f15c253902ff4eef507927669b9dc80
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TextMeshPro
+  - hash:
+      serializedVersion: 2
+      Hash: f6ffe0f33933ebfcffe3c75796fe1d9a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CCCHandling
+  - hash:
+      serializedVersion: 2
+      Hash: 3165968ba45c74472d279ba04455fccb
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_ColorGradient
+  - hash:
+      serializedVersion: 2
+      Hash: 88609525fc7855dc7ccac4c98c63654b
+    assemblyName: HTC.ViveInputUtility.dll
+    namespaceName: HTC.UnityPlugin.Vive
+    className: ViveRigidPoseTracker
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestTools.TestRunner.Callbacks
+    className: PlayModeRunnerCallback
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: BaseInput
+  - hash:
+      serializedVersion: 2
+      Hash: 358725ab975a43af405c30ec6515f1bb
+    assemblyName: HTC.ViveInputUtility.dll
+    namespaceName: HTC.UnityPlugin.Vive
+    className: VivePose
+  - hash:
+      serializedVersion: 2
+      Hash: caa533b001ae39b864ba8425019e2268
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Outline
+  - hash:
+      serializedVersion: 2
+      Hash: a63fc1a3b035e5a0b5839cd7f7b3086e
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: EventTrigger
+  - hash:
+      serializedVersion: 2
+      Hash: 5dea360fb0b147724ac344e6f399c2f3
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_SubMesh
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestRunner.Utils
+    className: TestRunCallbackListener
+  - hash:
+      serializedVersion: 2
+      Hash: 8ab9295d94483c961936d82d233d3df2
+    assemblyName: Unity.XR.Management.dll
+    namespaceName: UnityEngine.XR.Management
+    className: XRManagerSettings
+  - hash:
+      serializedVersion: 2
+      Hash: 9726bc46e15d44429bd38fb013657f1e
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestTools.TestRunner
+    className: PlaymodeTestsController
+  - hash:
+      serializedVersion: 2
+      Hash: 2aeeec1b1a144c469cd2d37776bc2315
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Dropdown
+  - hash:
+      serializedVersion: 2
+      Hash: 49c16fce202a44c1336c073cc39b1fb6
+    assemblyName: HTC.ViveInputUtility.dll
+    namespaceName: HTC.UnityPlugin.Vive.BindingInterface
+    className: BindingInterfaceRoleSetBindingItem
+  - hash:
+      serializedVersion: 2
+      Hash: 748dd2a2a28da4e618912da5ac45684b
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: StandaloneInputModule
+  - hash:
+      serializedVersion: 2
+      Hash: 8220b46879dc5e37db1b940c938f5744
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: SignalEmitter
+  - hash:
+      serializedVersion: 2
+      Hash: 4b75a1a7f44ed7d036b7d81630c297c8
+    assemblyName: HTC.ViveInputUtility.dll
+    namespaceName: HTC.UnityPlugin.Vive
+    className: TooltipRendererBase
+  - hash:
+      serializedVersion: 2
+      Hash: 7072231382eb3c4871b3dd75ad0227e1
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Slider
+  - hash:
+      serializedVersion: 2
+      Hash: f04295a22c169c8c1c3d8eabd8dfb53f
+    assemblyName: HTC.ViveInputUtility.dll
+    namespaceName: HTC.UnityPlugin.Vive
+    className: Ball
+  - hash:
+      serializedVersion: 2
+      Hash: 0fd6822f6177297bd0eb4d83cc7a9030
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: ToggleGroup
+  - hash:
+      serializedVersion: 2
+      Hash: c3d3430df9e3ea95e3e3d587961390fb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: PlayableTrack
+  platform: 13
+  scenePathNames:
+  - Assets/Scenes/SampleScene.unity
+  playerPath: C:/Users/Besitzer/Documents/Master/VR/CCC-VRProject/build/de.hskl.CCC.apk

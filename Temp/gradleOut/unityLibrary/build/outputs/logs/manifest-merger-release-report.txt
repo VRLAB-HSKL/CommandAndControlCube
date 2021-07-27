@@ -1,0 +1,153 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Besitzer\Documents\Master\VR\CCC-VRProject\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\Besitzer\Documents\Master\VR\CCC-VRProject\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\Besitzer\Documents\Master\VR\CCC-VRProject\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\Besitzer\Documents\Master\VR\CCC-VRProject\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\Besitzer\Documents\Master\VR\CCC-VRProject\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\Besitzer\Documents\Master\VR\CCC-VRProject\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\Besitzer\Documents\Master\VR\CCC-VRProject\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from C:\Users\Besitzer\Documents\Master\VR\CCC-VRProject\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:2:70-98
+		INJECTED from C:\Users\Besitzer\Documents\Master\VR\CCC-VRProject\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Besitzer\Documents\Master\VR\CCC-VRProject\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Besitzer\Documents\Master\VR\CCC-VRProject\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Besitzer\Documents\Master\VR\CCC-VRProject\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:2:1-28:12
+		INJECTED from C:\Users\Besitzer\Documents\Master\VR\CCC-VRProject\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\Besitzer\Documents\Master\VR\CCC-VRProject\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:2:99-145
+	android:versionCode
+		INJECTED from C:\Users\Besitzer\Documents\Master\VR\CCC-VRProject\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Besitzer\Documents\Master\VR\CCC-VRProject\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:2:1-28:12
+		INJECTED from C:\Users\Besitzer\Documents\Master\VR\CCC-VRProject\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Besitzer\Documents\Master\VR\CCC-VRProject\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\Besitzer\Documents\Master\VR\CCC-VRProject\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:3:3-19:17
+	android:label
+		ADDED from C:\Users\Besitzer\Documents\Master\VR\CCC-VRProject\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:3:16-48
+	android:resizeableActivity
+		ADDED from C:\Users\Besitzer\Documents\Master\VR\CCC-VRProject\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:3:91-125
+	android:icon
+		ADDED from C:\Users\Besitzer\Documents\Master\VR\CCC-VRProject\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:3:156-187
+	android:theme
+		ADDED from C:\Users\Besitzer\Documents\Master\VR\CCC-VRProject\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:3:49-90
+	tools:replace
+		ADDED from C:\Users\Besitzer\Documents\Master\VR\CCC-VRProject\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:3:126-155
+activity#com.htc.vr.unity.WVRUnityVRActivity
+ADDED from C:\Users\Besitzer\Documents\Master\VR\CCC-VRProject\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:5:5-14:16
+	android:screenOrientation
+		ADDED from C:\Users\Besitzer\Documents\Master\VR\CCC-VRProject\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:5:152-189
+	android:label
+		ADDED from C:\Users\Besitzer\Documents\Master\VR\CCC-VRProject\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:5:66-98
+	android:enableVrMode
+		ADDED from C:\Users\Besitzer\Documents\Master\VR\CCC-VRProject\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:5:99-151
+	android:launchMode
+		ADDED from C:\Users\Besitzer\Documents\Master\VR\CCC-VRProject\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:5:190-221
+	android:hardwareAccelerated
+		ADDED from C:\Users\Besitzer\Documents\Master\VR\CCC-VRProject\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:5:404-439
+	android:configChanges
+		ADDED from C:\Users\Besitzer\Documents\Master\VR\CCC-VRProject\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:5:222-403
+	android:name
+		ADDED from C:\Users\Besitzer\Documents\Master\VR\CCC-VRProject\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:5:15-65
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER+category:name:com.htc.intent.category.VRAPP
+ADDED from C:\Users\Besitzer\Documents\Master\VR\CCC-VRProject\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:6:7-10:23
+action#android.intent.action.MAIN
+ADDED from C:\Users\Besitzer\Documents\Master\VR\CCC-VRProject\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:7:9-61
+	android:name
+		ADDED from C:\Users\Besitzer\Documents\Master\VR\CCC-VRProject\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:7:17-58
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Besitzer\Documents\Master\VR\CCC-VRProject\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:8:9-69
+	android:name
+		ADDED from C:\Users\Besitzer\Documents\Master\VR\CCC-VRProject\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:8:19-66
+category#com.htc.intent.category.VRAPP
+ADDED from C:\Users\Besitzer\Documents\Master\VR\CCC-VRProject\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:9:9-66
+	android:name
+		ADDED from C:\Users\Besitzer\Documents\Master\VR\CCC-VRProject\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:9:19-63
+meta-data#unityplayer.UnityActivity
+ADDED from C:\Users\Besitzer\Documents\Master\VR\CCC-VRProject\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:11:7-82
+	android:value
+		ADDED from C:\Users\Besitzer\Documents\Master\VR\CCC-VRProject\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:11:59-79
+	android:name
+		ADDED from C:\Users\Besitzer\Documents\Master\VR\CCC-VRProject\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:11:18-58
+meta-data#unityplayer.SkipPermissionsDialog
+ADDED from C:\Users\Besitzer\Documents\Master\VR\CCC-VRProject\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:12:7-90
+	android:value
+		ADDED from C:\Users\Besitzer\Documents\Master\VR\CCC-VRProject\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:12:67-87
+	android:name
+		ADDED from C:\Users\Besitzer\Documents\Master\VR\CCC-VRProject\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:12:18-66
+meta-data#android.notch_support
+ADDED from C:\Users\Besitzer\Documents\Master\VR\CCC-VRProject\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:13:7-78
+	android:value
+		ADDED from C:\Users\Besitzer\Documents\Master\VR\CCC-VRProject\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:13:55-75
+	android:name
+		ADDED from C:\Users\Besitzer\Documents\Master\VR\CCC-VRProject\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:13:18-54
+meta-data#unity.splash-mode
+ADDED from C:\Users\Besitzer\Documents\Master\VR\CCC-VRProject\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:15:5-69
+	android:value
+		ADDED from C:\Users\Besitzer\Documents\Master\VR\CCC-VRProject\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:15:49-66
+	android:name
+		ADDED from C:\Users\Besitzer\Documents\Master\VR\CCC-VRProject\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:15:16-48
+meta-data#unity.splash-enable
+ADDED from C:\Users\Besitzer\Documents\Master\VR\CCC-VRProject\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:16:5-74
+	android:value
+		ADDED from C:\Users\Besitzer\Documents\Master\VR\CCC-VRProject\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:16:51-71
+	android:name
+		ADDED from C:\Users\Besitzer\Documents\Master\VR\CCC-VRProject\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:16:16-50
+meta-data#notch.config
+ADDED from C:\Users\Besitzer\Documents\Master\VR\CCC-VRProject\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:17:5-81
+	android:value
+		ADDED from C:\Users\Besitzer\Documents\Master\VR\CCC-VRProject\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:17:44-78
+	android:name
+		ADDED from C:\Users\Besitzer\Documents\Master\VR\CCC-VRProject\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:17:16-43
+meta-data#unity.build-id
+ADDED from C:\Users\Besitzer\Documents\Master\VR\CCC-VRProject\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:18:5-101
+	android:value
+		ADDED from C:\Users\Besitzer\Documents\Master\VR\CCC-VRProject\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:18:46-98
+	android:name
+		ADDED from C:\Users\Besitzer\Documents\Master\VR\CCC-VRProject\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:18:16-45
+uses-permission#vive.wave.vr.oem.data.OEMDataRead
+ADDED from C:\Users\Besitzer\Documents\Master\VR\CCC-VRProject\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:22:3-71
+	android:name
+		ADDED from C:\Users\Besitzer\Documents\Master\VR\CCC-VRProject\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:22:20-68
+uses-permission#vive.wave.vr.oem.data.OEMDataWrite
+ADDED from C:\Users\Besitzer\Documents\Master\VR\CCC-VRProject\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:23:3-72
+	android:name
+		ADDED from C:\Users\Besitzer\Documents\Master\VR\CCC-VRProject\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:23:20-69
+uses-feature#0x00030002
+ADDED from C:\Users\Besitzer\Documents\Master\VR\CCC-VRProject\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:24:3-52
+	android:glEsVersion
+		ADDED from C:\Users\Besitzer\Documents\Master\VR\CCC-VRProject\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:24:17-49
+uses-feature#android.hardware.touchscreen
+ADDED from C:\Users\Besitzer\Documents\Master\VR\CCC-VRProject\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:25:3-88
+	android:required
+		ADDED from C:\Users\Besitzer\Documents\Master\VR\CCC-VRProject\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:25:61-85
+	android:name
+		ADDED from C:\Users\Besitzer\Documents\Master\VR\CCC-VRProject\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:25:17-60
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from C:\Users\Besitzer\Documents\Master\VR\CCC-VRProject\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:26:3-99
+	android:required
+		ADDED from C:\Users\Besitzer\Documents\Master\VR\CCC-VRProject\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:26:72-96
+	android:name
+		ADDED from C:\Users\Besitzer\Documents\Master\VR\CCC-VRProject\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:26:17-71
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from C:\Users\Besitzer\Documents\Master\VR\CCC-VRProject\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:27:3-108
+	android:required
+		ADDED from C:\Users\Besitzer\Documents\Master\VR\CCC-VRProject\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:27:81-105
+	android:name
+		ADDED from C:\Users\Besitzer\Documents\Master\VR\CCC-VRProject\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml:27:17-80
+uses-sdk
+INJECTED from C:\Users\Besitzer\Documents\Master\VR\CCC-VRProject\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Besitzer\Documents\Master\VR\CCC-VRProject\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Besitzer\Documents\Master\VR\CCC-VRProject\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Besitzer\Documents\Master\VR\CCC-VRProject\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Besitzer\Documents\Master\VR\CCC-VRProject\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Besitzer\Documents\Master\VR\CCC-VRProject\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Besitzer\Documents\Master\VR\CCC-VRProject\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Besitzer\Documents\Master\VR\CCC-VRProject\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Besitzer\Documents\Master\VR\CCC-VRProject\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Besitzer\Documents\Master\VR\CCC-VRProject\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Besitzer\Documents\Master\VR\CCC-VRProject\Temp\gradleOut\unityLibrary\src\main\AndroidManifest.xml

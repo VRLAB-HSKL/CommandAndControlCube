@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HTC.ViveInputUtility", "HTC.ViveInputUtility.csproj", "{78012350-78EC-77E9-D6E5-2BC036B23372}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{B460B3E1-6206-6009-BBA8-747D88563CE2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HTC.ViveInputUtility.Editor", "HTC.ViveInputUtility.Editor.csproj", "{51C13D34-D2A8-1C88-01AD-80647EF529AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78012350-78EC-77E9-D6E5-2BC036B23372}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78012350-78EC-77E9-D6E5-2BC036B23372}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78012350-78EC-77E9-D6E5-2BC036B23372}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78012350-78EC-77E9-D6E5-2BC036B23372}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B460B3E1-6206-6009-BBA8-747D88563CE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B460B3E1-6206-6009-BBA8-747D88563CE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B460B3E1-6206-6009-BBA8-747D88563CE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B460B3E1-6206-6009-BBA8-747D88563CE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51C13D34-D2A8-1C88-01AD-80647EF529AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51C13D34-D2A8-1C88-01AD-80647EF529AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51C13D34-D2A8-1C88-01AD-80647EF529AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51C13D34-D2A8-1C88-01AD-80647EF529AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

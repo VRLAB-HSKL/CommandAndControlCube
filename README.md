@@ -1,2 +1,2 @@
 # CommandControlCube
-Repository for the project work in AVR 21.
+Command and Control Cube C^3, Manual Golz in AVR 21.

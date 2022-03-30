@@ -6,36 +6,43 @@
 *.swp
 
 # Andere Unity Verzeichnisse
-VisualRayTrace/**/Library/*
-VisualRayTrace/**/obj/*
-VisualRayTrace/**/ProjectSettings/*
-VisualRayTrace/**/Logs/*
-VisualRayTrace/**/Plugins/*
+**/Library/*
+**/obj/*
+**/ProjectSettings/*
+**/Logs/*
+**/Plugins/*
 
 # Assets wie MiddleVR, Steam, VRTK oder GitHub
 # Aktuell gehen wir davon aus, dass wir dies rekonstruieren können.
 # Wenn wir diese Verzeichnisse jedes mal in Git schreiben wird das repo
 # redundante Informationen enthalten, was vermieden werden soll.
-VisualRayTrace/**/Assets/MiddleVR/**/*
-VisualRayTrace/**/Assets/GoogleVR/**/*
-VisualRayTrace/**/Assets/WaveVR/**/*
-VisualRayTrace/**/Assets/SteamVR_Input/**/*
-VisualRayTrace/**/Assets/HTC.UnityPlugin/**/*
-VisualRayTrace/**/Assets/HTC.UnityPlugin/ViveInputUtility/**/*
+**/Assets/MiddleVR/**/*
+**/Assets/GoogleVR/**/*
+**/Assets/XR/**/*
+**/Assets/VIUSettings/**/*
+**/Assets/WaveVR/**/*
+**/Assets/SteamVR_Input/**/*
+**/Assets/HTC.UnityPlugin/**/*
+**/Assets/HTC.UnityPlugin/ViveInputUtility/**/*
 # MBU package ignorieren
-VisualRayTrace/**/Assets/MBU/**/*
-VisualRayTrace/**/Assets/MBU/
-VisualRayTrace/**/Assets/MBU.meta
-VisualRayTrace/**/Assets/Plugins
+**/Assets/MBU/
+**/Assets/MBU.meta
+# MBVR package ignorieren
+**/Assets/MBVR/
+**/Assets/MBVR.meta
+**/Assets/Plugins
 # FirstPerson von MVR und von Unity ignorieren
-VisualRayTrace/**/Assets/MiddleVR_First*/*
-VisualRayTrace/**/Assets/Standard Assets/*
+**/Assets/MiddleVR_First*/*
+**/Assets/Standard Assets/*
 # Unity Meta-Files
-VisualRayTrace/**/Assets/MiddleVR.meta
-VisualRayTrace/**/Assets/GoogleVR.meta
-VisualRayTrace/**/Assets/SteamVR.meta
-VisualRayTrace/**/Assets/HTC.UnityPlugin.meta
-VisualRayTrace/**/Assets/WaveVR.meta
+**/Assets/MiddleVR.meta
+**/Assets/GoogleVR.meta
+**/Assets/XR.meta
+**/Assets/VIUSettings.meta
+**/Assets/SteamVR.meta
+**/Assets/HTC.UnityPlugin.meta
+
+**/Assets/WaveVR.meta
 # Prerequisites
 *.d
 
